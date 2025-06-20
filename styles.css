@@ -1,0 +1,262 @@
+h1 {
+height: 7%;
+outline: 2px solid white;
+outline-offset: 18px;
+background-color: #88ff;
+opacity: 0.85;
+margin: 10% 5%;
+text-align: center;
+border-radius: 15px;
+border-left: 10px solid white;
+border-right: 10px solid white;
+font-style: italic;
+color: #ddd;
+padding: 2%;
+font-size: 140%;
+transition-property: outline, background-color, border-left, border-right, color;
+transition-duration: 2s;
+}
+
+h1:hover {
+outline: 2px solid #c55;
+background-color: pink;
+border-left: 10px solid #b77;
+border-right: 10px solid #b77;
+color: white;
+}
+
+strong {
+color: white;
+}
+
+.nombre-perfecto {
+width: 40%;
+height: 15%;
+top: 18.5%;
+left: 4%;
+background-color: #88ff;
+opacity: 0.85;
+text-align: center;
+padding: 3%;
+position: absolute;
+color: #ddd;
+border-radius: 18px;
+font-size: 108%;
+}
+
+.nombre-anet {
+width: 100px;
+height: 50px;
+border-radius: 18px;
+}
+
+.capa-name1:hover {
+left: 53%;
+box-shadow: none;
+z-index: 15;
+}
+
+.capa-name1 {
+width: 46%;
+height: 18%;
+top: 20%;
+left: 4%;
+background-color: #22a;
+position: absolute;
+border-radius: 18px;
+transition-property: left, box-shadow, z-index;
+transition-duration: 1s;
+box-shadow: 10px 8px 22px 10px black;
+}
+
+.peliculas-bl {
+width: 38%;
+height: 17%;
+top: 20%;
+left: 54%;
+background-color: #88ff;
+opacity: 0.85;
+text-align: center;
+padding: 3%;
+position: absolute;
+color: #ddd;
+border-radius: 18px;
+font-size: 110%;
+z-index: -5;
+}
+
+.pelicula-1, .pelicula-2, pelicula-3 {
+text-decoration: none;
+font-size: 65%;
+}
+
+.pelicula-1, .pelicula-2, pelicula-3:link {
+color: #22a;
+}
+
+.pelicula-1, .pelicula-2, pelicula-3:visited {
+color: blue;
+}
+
+.capa2:hover {
+top: -1%;
+z-index: 15;
+box-shadow: none;
+}
+
+.capa2 {
+width: 44%;
+height: 20%;
+top: 21.5%;
+left: 54%;
+background-color: #22a;
+position: absolute;
+border-radius: 18px;
+transition-property: top, box-shadow;
+transition-duration: 2s;
+z-index: 1;
+box-shadow: 10px 8px 22px 10px black;
+}
+
+.musica {
+width: 40%;
+height: 15%;
+top: 43%;
+left: 4%;
+background-color: #88ff;
+opacity: 0.85;
+text-align: center;
+padding: 3%;
+position: absolute;
+color: #ddd;
+border-radius: 18px;
+font-size: 108%;
+}
+
+.capa-cancion {
+width: 46%;
+height: 18%;
+top: 44.5%;
+left: 4%;
+background-color: #22a;
+position: absolute;
+border-radius: 18px;
+transition-property: top, background-color. box-shadow;
+transition-duration: 2s;
+box-shadow: 10px 8px 22px 10px black;
+}
+
+.capa-cancion:hover {
+top: 15%;
+background-color: transparent;
+box-shadow: none;
+}
+
+.cancion-you {
+transition-property: z-index;
+transition-duration: 2s;
+transition-delay: 1s;
+}
+
+.videojuegos {
+width: 38%;
+height: 22.5%;
+top: 47%;
+left: 54%;
+background-color: #88ff;
+opacity: 0.85;
+text-align: center;
+padding: 3%;
+position: absolute;
+color: #ddd;
+border-radius: 18px;
+font-size: 110%;
+z-index: -10;
+}
+
+.capa-3:hover {
+top: 47%;
+background: radial-gradient(transparent, transparent, #22a);
+}
+
+.capa-3 {
+width: 43.5%;
+height: 23.5%;
+top: 48.5%;
+left: 54%;
+background-color: #22a;
+position: absolute;
+border-radius: 18px;
+transition-property: top, background;
+transition-duration: 2s;
+box-shadow: 10px 8px 22px 10px black;
+}
+
+.imagen-reyna {
+width: 40%;
+height: 45%;
+border-radius: 18px;
+}
+
+
+.correcion {
+height: 20%;
+outline: 2px solid white;
+outline-offset: 18px;
+background-color: #88ff;
+opacity: 0.85;
+position: absolute;
+top: 71%;
+left: 2%;
+right: 52%;
+text-align: center;
+border-radius: 15px;
+border-left: 10px solid white;
+border-right: 10px solid white;
+font-style: italic;
+color: #ddd;
+padding: 2%;
+font-size: 140%;
+}
+
+
+.ultimo-msj {
+height: 18%;
+outline: 2px solid white;
+outline-offset: 18px;
+background-color: #88ff;
+opacity: 0.85;
+position: absolute;
+top: 75%;
+left: 52%;
+right: 2%;
+text-align: center;
+border-radius: 15px;
+border-left: 10px solid white;
+border-right: 10px solid white;
+font-style: italic;
+color: #ddd;
+padding: 2%;
+font-size: 140%;
+}
+
+.capa-4 {
+height: 20%;
+outline: 2px solid #22a;
+outline-offset: 18px;
+background-color: #22a;
+position: absolute;
+top: 75.5%;
+left: 52%;
+right: 2%;
+text-align: center;
+border-radius: 15px;
+transition-property: top, buttom, background-color;
+transition-duration: 2s;
+}
+
+.capa-4:hover {
+top: 74%;
+buttom: -10%;
+background-color: transparent;
+}

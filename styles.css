@@ -85,16 +85,16 @@ font-size: 110%;
 z-index: -5;
 }
 
-.pelicula-1, .pelicula-2, pelicula-3 {
+.pelicula-1, .pelicula-2, .pelicula-3 {
 text-decoration: none;
 font-size: 65%;
 }
 
-.pelicula-1, .pelicula-2, pelicula-3:link {
+.pelicula-1, .pelicula-2, .pelicula-3:link {
 color: #3e8481;
 }
 
-.pelicula-1, .pelicula-2, pelicula-3:visited {
+.pelicula-1, .pelicula-2, .pelicula-3:visited {
 color: #5dc1b9;
 }
 

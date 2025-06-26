@@ -91,11 +91,11 @@ font-size: 65%;
 }
 
 .pelicula-1, .pelicula-2, .pelicula-3:link {
-color: #3e8481;
+color: #239089;
 }
 
 .pelicula-1, .pelicula-2, .pelicula-3:visited {
-color: #5dc1b9;
+color: #3e8481;
 }
 
 .capa2:hover {

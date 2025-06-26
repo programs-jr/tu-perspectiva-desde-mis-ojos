@@ -1,10 +1,10 @@
 h1 {
-height: 12.2%;
+height: 7%;
 outline: 2px solid white;
 outline-offset: 18px;
-background-color: #88ff;
+background-color: #5dc1b9;
 opacity: 0.85;
-margin: 5% 5%;
+margin: 10% 5%;
 text-align: center;
 border-radius: 15px;
 border-left: 10px solid white;
@@ -18,10 +18,10 @@ transition-duration: 2s;
 }
 
 h1:hover {
-outline: 2px solid #c55;
-background-color: pink;
-border-left: 10px solid #b77;
-border-right: 10px solid #b77;
+outline: 2px solid #4f8582;
+background-color: #80cbd4;
+border-left: 10px solid #b5ffff;
+border-right: 10px solid #b5ffff;
 color: white;
 }
 
@@ -31,10 +31,10 @@ color: white;
 
 .nombre-perfecto {
 width: 40%;
-height: 15%;
-top: 19.5%;
+height: 19%;
+top: 18.5%;
 left: 4%;
-background-color: #88ff;
+background-color: #80cbd4;
 opacity: 0.85;
 text-align: center;
 padding: 3%;
@@ -44,9 +44,9 @@ border-radius: 18px;
 font-size: 108%;
 }
 
-.nombre-anet {
-width: 100px;
-height: 50px;
+.nombre-samantha {
+width: 200px;
+height: 125px;
 border-radius: 18px;
 }
 
@@ -58,10 +58,10 @@ z-index: 15;
 
 .capa-name1 {
 width: 46%;
-height: 18%;
-top: 21%;
+height: 21%;
+top: 20%;
 left: 4%;
-background-color: #22a;
+background-color: #3e8481;
 position: absolute;
 border-radius: 18px;
 transition-property: left, box-shadow, z-index;
@@ -72,9 +72,9 @@ box-shadow: 10px 8px 22px 10px black;
 .peliculas-bl {
 width: 38%;
 height: 17%;
-top: 20%;
+top: 19.5%;
 left: 54%;
-background-color: #88ff;
+background-color: #80cbd4;
 opacity: 0.85;
 text-align: center;
 padding: 3%;
@@ -109,7 +109,7 @@ width: 44%;
 height: 20%;
 top: 21.5%;
 left: 54%;
-background-color: #22a;
+background-color: #3e8481;
 position: absolute;
 border-radius: 18px;
 transition-property: top, box-shadow;
@@ -121,9 +121,9 @@ box-shadow: 10px 8px 22px 10px black;
 .musica {
 width: 40%;
 height: 15%;
-top: 43%;
+top: 45%;
 left: 4%;
-background-color: #88ff;
+background-color: #80cbd4;
 opacity: 0.85;
 text-align: center;
 padding: 3%;
@@ -136,9 +136,9 @@ font-size: 108%;
 .capa-cancion {
 width: 46%;
 height: 18%;
-top: 44.5%;
+top: 46.5%;
 left: 4%;
-background-color: #22a;
+background-color: #3e8481;
 position: absolute;
 border-radius: 18px;
 transition-property: top, background-color. box-shadow;
@@ -163,7 +163,7 @@ width: 38%;
 height: 22.5%;
 top: 47%;
 left: 54%;
-background-color: #88ff;
+background-color: #80cbd4;
 opacity: 0.85;
 text-align: center;
 padding: 3%;
@@ -176,7 +176,7 @@ z-index: -10;
 
 .capa-3:hover {
 top: 47%;
-background: radial-gradient(transparent, transparent, #22a);
+background: radial-gradient(transparent, transparent, #3e8481);
 }
 
 .capa-3 {
@@ -184,7 +184,7 @@ width: 43.5%;
 height: 23.5%;
 top: 48.5%;
 left: 54%;
-background-color: #22a;
+background-color: #3e8481;
 position: absolute;
 border-radius: 18px;
 transition-property: top, background;
@@ -203,7 +203,7 @@ border-radius: 18px;
 height: 20%;
 outline: 2px solid white;
 outline-offset: 18px;
-background-color: #88ff;
+background-color: #80cbd4;
 opacity: 0.85;
 position: absolute;
 top: 71%;
@@ -224,7 +224,7 @@ font-size: 140%;
 height: 18%;
 outline: 2px solid white;
 outline-offset: 18px;
-background-color: #88ff;
+background-color: #80cbd4;
 opacity: 0.85;
 position: absolute;
 top: 75%;
